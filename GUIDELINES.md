@@ -73,6 +73,11 @@ postgres=# GRANT ALL PRIVILEGES ON DATABASE velog to velog;
 GRANT
 ```
 
+## Start Redis
+```bash
+$ redis-server
+```
+
 ## Migrate database
 
 ```bash
